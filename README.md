@@ -1,5 +1,4 @@
-# Object Model Lab [![pipeline status](https://www-apps.univ-lehavre.fr/forge/kd184351/WEB-objectmodel-lab/badges/master/pipeline.svg)](https://www-apps.univ-lehavre.fr/forge/kd184351/WEB-objectmodel-lab/commits/master) [![coverage report](https://www-apps.univ-lehavre.fr/forge/kd184351/WEB-objectmodel-lab/badges/master/coverage.svg)](https://www-apps.univ-lehavre.fr/forge/kd184351/WEB-objectmodel-lab/commits/master)
-
+# Object Model Lab 
 # React & React Router Lab
 
 - Année : M1 IWOCS
@@ -10,7 +9,7 @@
 
 |Nom|Prénom|login|email|
 |--|--|--|--|
-| *KOUTO* | *Dosseh* | *kd184351* | *dosseh.kouto@etu.univ-lehavre.fr* |
+| *KOUTO* | *Dosseh* | *dosseh* | *dossehkouto@yahoo.fr* |
 
 
 ## Travail à réaliser
